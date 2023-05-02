@@ -218,6 +218,7 @@
 
 # type0 手动解析
 {"name":"zui","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
 "ijk":[
 {"group":"软解码","options":[
