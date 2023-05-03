@@ -1,5 +1,5 @@
 # CH猫友 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 https://raw.githubusercontent.com/o0i/myTV/main/ZX2305022.json--> 确定
+// 我的 --> 设置 -->  配置地址 --> 请输入 https://raw.githubusercontent.com/o0i/myTV/main/ZX2305022.json --> 确定
 
 
 {
@@ -230,7 +230,6 @@
 {"name":"8090","type":1,"url":"https://www.8090g.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"诺讯","type":1,"url":"https://www.nxflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
-
 ],
 
 
